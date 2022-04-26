@@ -30,3 +30,5 @@ Comandos aprendidos
 13) git checkout branch_name (ingresa a la rama correspondiente)
 
 14) git merge branch_name (una vez en la rama master, este comando une los cambios de una rama a la master)
+
+15) git push origin master (subir los cambios al github)
