@@ -27,4 +27,6 @@ Comandos aprendidos
                                 y hacer commits dentro de ella sin afectar aún al código maestro)
 
 12) git branch (muestra las ramas que existen)
-13) git checkout branchname (ingresa a la rama correspondiente)
+13) git checkout branch_name (ingresa a la rama correspondiente)
+
+14) git merge branch_name (una vez en la rama master, este comando une los cambios de una rama a la master)
