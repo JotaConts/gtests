@@ -8,4 +8,4 @@ Comandos aprendidos
 
 6) git commit (agrego los cambios insertando un mensaje, luego dae ESC y escribir ":wq" sin las comillas para guardar y salir)
 
-7) git log (devuelve resumen de los commits hechos)
+7) git log (devuelve datos de los commits hechos)
