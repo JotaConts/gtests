@@ -19,6 +19,12 @@ Comandos aprendidos
 
 9) git checkout --file_name (para revertir los cambios que aún no se han enviado al stagin area)
 
-10) archivo git_ignore: Todo archivo agregado en la carpeta raíz tendrá un seguimiento en la carpeta .git
+10) archivo gitignore: Todo archivo agregado en la carpeta raíz tendrá un seguimiento en la carpeta .git
                         Si existen archivos que queremos que que git ignore por completo, debemos crear
                         un archivo llamado .gitignore donde escribiremos todos los archivos que queremos ignorar.
+
+11) git branch new_branch_name  (un branch es una rama del código, permite desarrollar mi parte del codigo
+                                y hacer commits dentro de ella sin afectar aún al código maestro)
+
+12) git branch (muestra las ramas que existen)
+13) git checkout branchname (ingresa a la rama correspondiente)
