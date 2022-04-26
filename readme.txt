@@ -1,7 +1,13 @@
+Estados de los arvhivos:
+Working directory: Archivos o codigo recién creado
+Staging área (git add): Se confirman las modificaciones y quedan en estado de preparación.
+Repository (git commit): Los archivos están finalmente confirmados en el repositorio.
+
 Comandos aprendidos
 1) git init (para crear el repositorio .git)
 2) git status (para conocer el estdo de los archivos que estamos haciendo seguimiento)
 3) git add file_name (para iniciar el seguimiento del archivo indicado)
+-->git add . (hace un add para todos los archivos de la carpeta raíz)
 
 4) git config --global user.mail "mi_email@email.com"
 5) git config --global user.name "mi_email@email.com"
@@ -9,3 +15,10 @@ Comandos aprendidos
 6) git commit (agrego los cambios insertando un mensaje, luego dae ESC y escribir ":wq" sin las comillas para guardar y salir)
 
 7) git log (devuelve datos de los commits hechos)
+8) git diff file_name (muestra las diferencias que hay entre la versión actual y la anterior)
+
+9) git checkout --file_name (para revertir los cambios que aún no se han enviado al stagin area)
+
+10) archivo git_ignore: Todo archivo agregado en la carpeta raíz tendrá un seguimiento en la carpeta .git
+                        Si existen archivos que queremos que que git ignore por completo, debemos crear
+                        un archivo llamado .gitignore donde escribiremos todos los archivos que queremos ignorar.
