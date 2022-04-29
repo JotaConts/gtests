@@ -35,4 +35,4 @@ Comandos aprendidos
 16) git push origin master (subir los cambios al github)
 
 ****
-6to cambio de prueba para ver funcionamiento de jenkins
+#7 cambio de prueba para ver funcionamiento de jenkins
