@@ -33,3 +33,7 @@ Comandos aprendidos
 
 15) git pull origin master (descargar la última versión del master, luego podemos hacer el push)
 16) git push origin master (subir los cambios al github)
+
+*******
+Este repositorio lo linkee con Jenkins. Todos los push van a ser notificados a Jenkins
+Este cambio por ejemplo ya fue notificado al momento de yo haber hecho el push.
