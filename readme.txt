@@ -32,12 +32,7 @@ Comandos aprendidos
 14) git merge branch_name (una vez en la rama master, este comando une los cambios de una rama a la master)
 
 15) git pull origin master (descargar la última versión del master, luego podemos hacer el push)
-<<<<<<< HEAD
-16) git push origin master (subir los cambios al github) 
-=======
 16) git push origin master (subir los cambios al github)
 
-*******
-Este repositorio lo linkee con Jenkins. Todos los push van a ser notificados a Jenkins
-Este cambio por ejemplo ya fue notificado al momento de yo haber hecho el push.
->>>>>>> 0c4b412b9705daca4d2ddfbf1fc805ebf6029930
+****
+Cambio de prueba
