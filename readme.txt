@@ -32,4 +32,4 @@ Comandos aprendidos
 14) git merge branch_name (una vez en la rama master, este comando une los cambios de una rama a la master)
 
 15) git pull origin master (descargar la última versión del master, luego podemos hacer el push)
-16) git push origin master (subir los cambios al github)
+16) git push origin master (subir los cambios al github) 
